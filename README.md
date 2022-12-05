@@ -6,7 +6,9 @@ My first repository
 >Love of Aurora is one of my favorite because i also love Aurora Borealis, Borealis is one of my dreams to see someday.I love the series because all of their dreams they are dedicated on it. They put all of their effort for what they want.>
 
 ** Main Character**
-1. Han Xingzi
-2.Li Juntai
-3.Li Mingzhe
-4.He Jingwen
+1. Guan Xiao Tong as *Han Xingzi*
+2. Zhang Yan Qi as *Han Xingzi (young)*
+3. Ma Ke as *Li Juntai*
+4. Zheng Bo Zhang as *Li Juntai (young)*
+5. Zhang Xiao Long as *Li Mingzhe*
+6. Zhao Ying Zi as *He Jingwen*
